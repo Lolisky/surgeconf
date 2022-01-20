@@ -10,6 +10,8 @@ payload:
   - DOMAIN-SUFFIX,pkulaw.net
   - DOMAIN-SUFFIX,pkulaw.com
   - DOMAIN-SUFFIX,itslaw.com
+  - DOMAIN-SUFFIX,lawyee.org
+  - DOMAIN-SUFFIX,lexiscn.com
   - DOMAIN-SUFFIX,cepiec.com.cn
   - DOMAIN-SUFFIX,wanfangdata.com.cn
   - DOMAIN-SUFFIX,lawdata01.com.cn
